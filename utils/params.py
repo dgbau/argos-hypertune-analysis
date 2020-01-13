@@ -1,0 +1,71 @@
+ga_params = [
+    {
+        'ProbabilityOfSwitchingToSearching': 1.0,
+        'ProbabilityOfReturningToNest': 0.0,
+        'UninformedSearchVariation': 0.0395,
+        'RateOfInformedSearchDecay': 0.06925,
+        'RateOfSiteFidelity': 12.6571,
+        'RateOfLayingPheromone': 16.3573,
+        'RateOfPheromoneDecay': 0.30182,
+        'FoodDistribution': 0,
+        'ParamSource': 'ga',
+    },
+    {
+        'ProbabilityOfSwitchingToSearching': 1.0,
+        'ProbabilityOfReturningToNest': 0.0,
+        'UninformedSearchVariation': 0.2401,
+        'RateOfInformedSearchDecay': 0.2062,
+        'RateOfSiteFidelity': 3.9013,
+        'RateOfLayingPheromone': 1.1025,
+        'RateOfPheromoneDecay': 0.2460,
+        'FoodDistribution': 1,
+        'ParamSource': 'ga',
+    },
+    {
+        'ProbabilityOfSwitchingToSearching': 1.0,
+        'ProbabilityOfReturningToNest': 0.0,
+        'UninformedSearchVariation': 0.0453,
+        'RateOfInformedSearchDecay': 1.1314,
+        'RateOfSiteFidelity': 4.3540,
+        'RateOfLayingPheromone': 18.165,
+        'RateOfPheromoneDecay': 1.9824,
+        'FoodDistribution': 2,
+        'ParamSource': 'ga',
+    }
+]
+
+ht_params = [
+    {
+        'ProbabilityOfSwitchingToSearching': 0.102172778,
+        'ProbabilityOfReturningToNest': 3.51E-14,
+        'UninformedSearchVariation': 1.988840343,
+        'RateOfInformedSearchDecay': 4.996525263,
+        'RateOfSiteFidelity': 18.89632333,
+        'RateOfLayingPheromone': 19.86166634,
+        'RateOfPheromoneDecay': 10,
+        'FoodDistribution': 0,
+        'ParamSource': 'ht',
+    },
+    {
+        'ProbabilityOfSwitchingToSearching': 0.993862775,
+        'ProbabilityOfReturningToNest': 1.77E-14,
+        'UninformedSearchVariation': 10.93605246,
+        'RateOfInformedSearchDecay': 0.146401514,
+        'RateOfSiteFidelity': 0.82497564,
+        'RateOfLayingPheromone': 16.58501259,
+        'RateOfPheromoneDecay': 9.952539756,
+        'FoodDistribution': 1,
+        'ParamSource': 'ht',
+    },
+    {
+        'ProbabilityOfSwitchingToSearching': 0.880639663,
+        'ProbabilityOfReturningToNest': 5.94E-14,
+        'UninformedSearchVariation': 2.567963387,
+        'RateOfInformedSearchDecay': 0.382737918,
+        'RateOfSiteFidelity': 19.73177734,
+        'RateOfLayingPheromone': 1.641656369,
+        'RateOfPheromoneDecay': 9.99999997,
+        'FoodDistribution': 2,
+        'ParamSource': 'ht',
+    }
+]
